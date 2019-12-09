@@ -28,7 +28,7 @@ Create and deployment into Kubenetes cloud
 8.      
 Using Jenkins to for version update
 
-
+9.
 
 django-admin start project my_first_dj
 
