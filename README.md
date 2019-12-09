@@ -1,28 +1,32 @@
 Deploy Python Django web program into cloud
 
+Step done
+
 1.      
-VSC and GIT – Push local VSC to GITHUB
+Create Python Django web program in my PC [https://www.youtube.com/watch?v=zuxzE7--RYM](https://www.youtube.com/watch?v=zuxzE7--RYM)
 
 2.      
-Create Centos VM using virtualbox
+VSC and GIT – Push local VSC to GITHUB ([https://www.youtube.com/watch?v=Fk12ELJ9Bww](https://www.youtube.com/watch?v=Fk12ELJ9Bww))
 
 3.      
-Create Python 
-Django web program
+Create Centos VM using Virtualbox
+
+Next Step
 
 4.      
-Package it into Docker
+Pull my Python programing from Github 
 
 5.      
-repository into Git
+Package it into Docker
 
 6.      
-Create and deployment into Kubenetes cloud
+repository into Git
 
 7.      
+Create and deployment into Kubenetes cloud
+
+8.      
 Using Jenkins to for version update
-
-
 
 django-admin start project my_first_dj
 
