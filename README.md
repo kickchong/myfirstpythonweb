@@ -28,8 +28,12 @@ Create and deployment into Kubenetes cloud
 8.      
 Using Jenkins to for version update
 
+<<<<<<< HEAD
 1.2.3
 
+=======
+9.10.
+>>>>>>> mypcversion
 
 django-admin start project my_first_dj
 
