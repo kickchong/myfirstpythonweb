@@ -21,6 +21,10 @@ Package it into Docker - Done 12/30/2019
 
 6.      
 Push back into Git 
+git status
+git add .
+git commit -a
+git push
 
 7.      
 Create and deployment into Kubenetes cloud
