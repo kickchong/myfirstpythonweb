@@ -21,9 +21,17 @@ Package it into Docker - Done 12/30/2019
 
 6.      
 Push back into Git 
+
+a.
 git status
+
+b.
 git add .
+
+c.
 git commit -a
+
+d.
 git push
 
 7.      
