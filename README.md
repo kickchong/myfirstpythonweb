@@ -1,4 +1,4 @@
-Deploy Python Django web program into cloud
+Deploy Python Django web program into cloud - using Centos 8 mini
 
 Step done
 
